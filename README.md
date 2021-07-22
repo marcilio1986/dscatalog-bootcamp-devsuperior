@@ -13,67 +13,67 @@
 
 ## Capítulo 1 -- CRUD - BACKEND
 
-#-01 Visão geral do capítulo
+#-01 Visão geral do capítulo  ------------------------------------------------------------->>  Concluido 
 
 
-#-02 Visão geral do ecossistema Spring
+#-02 Visão geral do ecossistema Spring  --------------------------------------------------->>  Concluido
 
 
-#-03 Aviso sobre o processo de desenvolvimento
+#-03 Aviso sobre o processo de desenvolvimento  ------------------------------------------->>  Concluido
 
 
-#-04 Visão geral do app dscatalog
+#-04 Visão geral do app dscatalog  -------------------------------------------------------->>  Concluido
 
 
-#-05 Instalação das ferramentas
+#-05 Instalação das ferramentas  ---------------------------------------------------------->>  Concluido
 
 
-#-06 Criação do projeto Spring Boot
+#-06 Criação do projeto Spring Boot  ------------------------------------------------------>>  Concluido
 
 
-#-07 Salvando o projeto no Github
+#-07 Salvando o projeto no Github  -------------------------------------------------------->>  Concluido
 
 
-#-08 Classe Category
+#-08 Classe Category  --------------------------------------------------------------------->>  Concluido
 
 
-#-09 Category Resource
+#-09 Category Resource  ------------------------------------------------------------------->>  Concluido
 
 
-#-10 Observações importantes sobre o sistema
+#-10 Observações importantes sobre o sistema  --------------------------------------------->>  Concluido
 
 
-#-11 Banco de dados H2, camadas
+#-11 Banco de dados H2, camadas  ---------------------------------------------------------->>  Concluido
 
 
-#-12 Transações e sessão JPA
+#-12 Transações e sessão JPA  ------------------------------------------------------------->>  Concluido
 
 
-#-13 Seeding da base de dados
+#-13 Seeding da base de dados  ------------------------------------------------------------>>  Concluido
 
 
-#-14 DTO
+#-14 DTO  --------------------------------------------------------------------------------->>  Concluido
 
 
-#-15 Criando um ambiente de execução no Postman
+#-15 Criando um ambiente de execução no Postman  ------------------------------------------>>  Concluido
 
 
-#-16 Buscando categoria por id
+#-16 Buscando categoria por id  ----------------------------------------------------------->>  Concluido
 
 
-#-17 Tratamento de exceções
+#-17 Tratamento de exceções  -------------------------------------------------------------->>  Concluido
 
 
-#-18 Inserindo nova categoria com POST
+#-18 Inserindo nova categoria com POST  --------------------------------------------------->>  Concluido
 
 
-#-19 Atualizando categoria com PUT
+#-19 Atualizando categoria com PUT  ------------------------------------------------------->>  Concluido
 
 
-#-20 Deletando categoria com DELETE
+#-20 Deletando categoria com DELETE  ------------------------------------------------------>>  Concluido
 
 
-#-21 Dados de auditoria
+#-21 Dados de auditoria  
 
 
 #-22 Paginação
