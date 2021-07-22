@@ -10,6 +10,22 @@
 # Sobre o projeto
 ## Projeto full stack web e mobile de catálogo de produtos e área administrativa com autenticação e autorização, desenvolvido durante o Bootcamp DevSuperior
 
+# MODELO CONCEITUAL 
+
+- [Modelo Conceitual DSCatalog](https://github.com/marcilio1986/assets/blob/main/Modelo%20conceitual%20DSCatalog.png)
+
+
+
+
+# Ferramentas necessárias para o desenvolvimento do projeto :
+## JDK 11
+## STS
+## Postman
+## Postgresql 12 e pgAdmin
+## Heroku CLI
+## NPM
+## VS Code
+## Git
 
 ## Capítulo 1 -- CRUD - BACKEND
 
