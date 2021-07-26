@@ -352,7 +352,329 @@ TAREFA: Validação e segurança
 
 
 
-# Autor
+## Capítulo 4 -- Dominio e ORM , Autorizações
+
+##-01 Visão geral do capítulo
+
+
+##-02 Visão geral do sistema DSLearn
+
+
+##-03 Baixando o projeto pronto (opcional)
+
+
+##-## Setup do projeto DSLearn
+
+
+##-05 User, Role
+
+
+##-06 Course
+
+
+##-07 Offer
+
+
+##-08 Resource
+
+
+##-09 Section
+
+
+##-10 Enrollment, EnrollmentPK
+
+
+##-11 Enrollment seed
+
+
+##-12 Correção - Offer sem timezone
+
+
+##-13 Lesson, Content, Task
+
+
+##-14 Lesson seed, correção - lessonsDone
+
+
+##-15 Restante da implementação, clone do projeto
+
+
+##-16 Correções adicionais no código
+
+
+##-17 Últimas considerações sobre o projeto do Github
+
+
+##-18 Preparando para a segunda parte do capítulo - autorizações
+
+
+##-19 Criando os repositories
+
+
+##-20 Incluindo exceções, validação e segurança ao projeto
+
+
+##-21 Busca de usuário por id
+
+
+##-22 Autorização customizada em nível de serviço PARTE 1
+
+
+##-23 Autorização customizada em nível de serviço PARTE 2
+
+
+##-24 Conteúdo customizado para usuário logado
+
+
+##-25 Refresh token
+
+
+##-26 Pré-autorizando métodos por perfil de usuário
+
+
+##-27 Desafio para entregar
+
+
+TAREFA: MovieFlix domínio e autorização
+
+
+
+## Capítulo 5 -- Consultas ao Banco de Dados 
+
+
+##-01 Visão geral do capítulo
+
+
+##-02 Baixando os projetos prontos
+
+
+##-03 Orientações de estudo sobre SQL
+
+
+##-04 Postgresql 12 instalado neste momento
+
+
+##-## URI 2602 - Elaborando a consulta
+
+
+##-06 Baixando os projetos iniciados dos estudos de caso
+
+
+##-07 URI 2602 Spring Boot SQL
+
+
+##-08 URI 2602 Spring Boot JPQL
+
+
+##-09 URI 2611 Elaborando a consulta
+
+
+##-10 URI 2611 Spring Boot SQL e JPQL
+
+
+##-11 URI 2621 Elaborando a consulta
+
+
+##-12 URI 2621 Spring Boot SQL e JPQL
+
+
+##-13 Dica - pratique um pouco se você estiver precisando
+
+
+##-14 URI 2609 Elaborando a consulta
+
+
+##-15 URI 2609 Spring Boot SQL e JPQL
+
+
+##-16 URI 2737 Elaborando a consulta
+
+
+##-17 URI 2737 Solução alternativa
+
+
+##-18 URI 2737 Spring Boot SQL
+
+
+##-19 URI 2990 Elaborando a consulta
+
+
+##-20 URI 2990 Solução alternativa
+
+
+##-21 URI 2990 Spring Boot SQL e JPQL
+
+
+##-22 Preparando o DSCatalog do fim do capítulo 3
+
+
+##-23 Query methods
+
+
+##-24 Problema N+1 consultas com Spring Data JPA
+
+
+##-25 Disclaimer - avisos sobre o DSCatalog
+
+
+##-26 Filtrar produtos, INNER JOIN, IN
+
+
+##-27 Filtrar produtos, DISTINCT, IS NULL
+
+
+##-28 Filtrar produto, FNC, LIKE, LOWER, CONCAT, Trim
+
+
+##-29 Filtrar produtos, COALESCE, List
+
+
+##-30 Lidando com o famigerado problema N mais 1 consultas
+
+
+##-31 Corrigindo os testes do DSCatalog
+
+
+##-32 Configuração de CORS no DSCatalog
+
+
+##-33 Consulta de notificações do DSLearn
+
+
+##-34 Apresentando o desafio para entregar
+
+
+##-35 Explicação adicional: DTOs de cada requisição
+
+
+TAREFA: MovieFlix casos de uso
+
+
+
+## Capítulo 6 -- Docker, Implantação, CI/CD
+
+##-01 Visão geral do capítulo
+
+
+##-02 Instalação do Docker
+
+
+##-03 Introdução a Docker e containers
+
+
+##-04 Imagem, container, registry
+
+
+##-05 Docker ps, images, pull, start, stop
+
+
+##-## Instanciando um container Postgres
+
+
+##-07 Comandos básicos de manutenção no Docker
+
+
+##-08 Arquivo Dockerfile
+
+
+##-09 Analisando os demais exemplos de Dockerfile
+
+
+##-10 Volumes no Docker
+
+
+##-11 Enviando imagens para o DockerHub
+
+
+##-12 Começando a implantação manual - baixando o DSCatalog
+
+
+##-13 Perfis de projeto, variáveis de ambiente
+
+
+##-14 Gerando imagem com Dockerfile
+
+
+##-15 Criando base de dados Postgres remota no Heroku
+
+
+##-16 Instanciando um container no modo dev
+
+
+##-17 Cadastro na Amazon AWS e usuário IAM
+
+
+##-18 Criando instância EC2
+
+
+##-19 Acessar instância EC2 via SSH e instalar Docker
+
+
+##-20 Criando base de dados no Amazon RDS
+
+
+##-21 Conectando e instanciando a base de dados
+
+
+##-22 Enviando imagem para DockerHub
+
+
+##-23 Instanciando um container para conectar ao banco do RDS
+
+
+##-24 Instanciando o container no EC2
+
+
+##-25 CI CD no Heroku
+
+
+##-26 CI CD na AWS com Github Actions - visão geral
+
+
+##-27 Primeiro teste Github Actions
+
+
+##-28 Etapa 1 - Conexão e Cloud Shell
+
+
+##-29 Etapa 2 - Rede
+
+
+##-30 Etapa 3 - Banco de dados RDS
+
+
+##-31 Administração do banco de dados
+
+
+##-32 Etapa 4 - Aplicação Elastic Beanstalk e bucket S3
+
+
+##-33 Etapa 5 - Subindo build zero para nuvem
+
+
+##-34 Etapa 6 - Implantando build zero no Elastic Beanstalk
+
+
+##-35 Etapa 7 - Criando environment no Elastic Beanstalk
+
+
+##-36 Etapa 8 - Configurando variáveis de ambiente adicionais
+
+
+##-37 Etapa 9 - Configurando environment secrets no Github
+
+
+##-38 Etapa 10 - Incluindo pipeline Github Actions
+
+
+##-39 Exterminando os recursos da AWS
+
+
+
+
+
+
+
 
 Marcilio Bruno Dias da Silva
 
