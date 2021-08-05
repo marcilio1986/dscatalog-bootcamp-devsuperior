@@ -89,7 +89,7 @@
 #-21 Dados de auditoria  ------------------------------------------------------------------>>  Concluido
 
 
-#-22 Paginação
+#-22 Paginação  --------------------------------------------------------------------------->>  Concluido
 
 
 #-23 Entidade Product, revisão modelo relacional N-N
