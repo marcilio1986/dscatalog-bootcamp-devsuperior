@@ -86,7 +86,7 @@
 #-20 Deletando categoria com DELETE  ------------------------------------------------------>>  Concluido
 
 
-#-21 Dados de auditoria  
+#-21 Dados de auditoria  ------------------------------------------------------------------>>  Concluido
 
 
 #-22 Paginação
