@@ -92,10 +92,10 @@
 #-22 Paginação  --------------------------------------------------------------------------->>  Concluido
 
 
-#-23 Entidade Product, revisão modelo relacional N-N
+#-23 Entidade Product, revisão modelo relacional N-N  ------------------------------------->>  Concluido
 
 
-#-24 Mapeamento JPA N-N, script SQL completo
+#-24 Mapeamento JPA N-N, script SQL completo  --------------------------------------------->>  Concluido
 
 
 #-25 ProductDTO
